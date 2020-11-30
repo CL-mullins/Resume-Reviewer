@@ -1,0 +1,20 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #6b6969;
+    color: white;
+    text-align: center;
+}
+
+.body-scrolly {
+    width: 500px;
+    border: 15px solid orange;
+    padding: 50px;
+    margin: auto;
+}
+
+.navbar-brand {
+    color: orange;
+}
