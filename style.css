@@ -17,4 +17,29 @@ footer {
 
 .navbar-brand {
     color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
 }
+.navbar {
+    color: orange;
+    background-color: #db7e40;
+}
+.nav {
+    color: orange;
+    background-color: orange;
+}
+
+div {
+    margin: auto;
+}
+.navbar-toggler {
+    background-color: papayawhip;
+}
+
+body {
+background: rgb(219,126,64);
+background: linear-gradient(180deg, rgba(219,126,64,1) 0%, rgba(246,248,249,1) 66%);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
