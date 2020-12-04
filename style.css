@@ -23,6 +23,7 @@ footer {
 .navbar {
     color: orange;
     background-color: #db7e40;
+    border-style: solid;
 }
 .nav {
     color: orange;
@@ -31,6 +32,7 @@ footer {
 
 div {
     margin: auto;
+    align-content: center;
 }
 .navbar-toggler {
     background-color: papayawhip;
@@ -41,5 +43,10 @@ background: rgb(219,126,64);
 background: linear-gradient(180deg, rgba(219,126,64,1) 0%, rgba(246,248,249,1) 66%);
 background-repeat: no-repeat;
 background-size: cover;
+height: 100vh
+}
+
+input {
+    align-content: center;
 }
 
