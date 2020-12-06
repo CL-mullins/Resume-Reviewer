@@ -1,3 +1,6 @@
+html {
+    height: 100%;
+}
 footer {
     position: fixed;
     left: 0;
@@ -43,10 +46,19 @@ background: rgb(219,126,64);
 background: linear-gradient(180deg, rgba(219,126,64,1) 0%, rgba(246,248,249,1) 66%);
 background-repeat: no-repeat;
 background-size: cover;
-height: 100vh
+height: 100%;
 }
 
 input {
     align-content: center;
+    width: 25%
+}
+
+.img1 {
+    width: 500px;
+}
+
+.img2 {
+    position: sticky
 }
 
